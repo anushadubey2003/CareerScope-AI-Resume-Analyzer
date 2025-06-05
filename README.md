@@ -26,8 +26,3 @@ CareerScope is an AI-powered resume analyzer that extracts, evaluates, and score
 
 
 
-# Step 4: Download spaCy model
-python -m spacy download en_core_web_sm
-
-# Step 5: Run the API
-uvicorn app.main:app --reload
