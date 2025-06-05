@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+spacy
+pyresparser
+pdfminer.six
+pandas
+scikit-learn
+joblib
